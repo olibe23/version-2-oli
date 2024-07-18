@@ -58,7 +58,7 @@ a {
     padding: 20px;
 }
 
-.container {
+.container-cargamariposas {
     background-color: rgba(34, 54, 73, 0.8);
     border-radius: 10px;
     padding: 20px;
@@ -67,6 +67,8 @@ a {
     color: white;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
+
+
 
 /* Form Title */
 .title-carga {
